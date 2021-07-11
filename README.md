@@ -13,11 +13,11 @@ Python
 $ sudo apt-get install python3 python3-pip
 ```
 
-Keras.
+Tensorflow
 
 ```
-$ pip install keras
-# $ conda install -c conda-forge keras
+$ pip install tensorflow
+# $ conda install -c conda-forge tensorflow
 ```
 
 NumPy
