@@ -3,7 +3,7 @@
 This example trains a multi-layer RNN-LSTM on a language modeling task.
 The training script uses the PTB dataset, provided.
 
-The file `notebook.ipynb` is a [Jupyter](https://jupyter.org/) notebook, which contains all python codes: [Link]](https://github.com/ZizZu94/nlu-text-generation/blob/main/notebook.ipynb). Use [Google Colab](https://colab.research.google.com/) or any Jupyter notebook viewer to open it.
+The file `notebook.ipynb` is a [Jupyter](https://jupyter.org/) notebook, which contains all python codes: [Link](https://github.com/ZizZu94/nlu-text-generation/blob/main/notebook.ipynb). Use [Google Colab](https://colab.research.google.com/) or any Jupyter notebook viewer to open it.
 
 The file `report_zihadul_azam.pdf` is the report of this project: [Link](https://github.com/ZizZu94/nlu-text-generation/blob/main/report_zihadul_azam.pdf).
 
